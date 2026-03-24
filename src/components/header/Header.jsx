@@ -12,7 +12,7 @@ const Header = () => {
 
 
     return (
-        <div className="max-w-6xl mx-auto mt-8 bg-base-300 sticky top-8 flex justify-between items-center rounded-xl p-4 shadow-md z-50">
+        <div className="max-w-6xl mx-auto mt-8 bg-base-300/70 sticky top-8 flex justify-between items-center rounded-xl p-4 shadow-md z-50">
           {/* <button className="btn btn-ghost text-xl">daisyUI</button> */}
           <div className='pl-2'>
             <img src="https://parvejhusentalukder.com/wp-content/uploads/2026/01/PHT.png" alt="pht();" className='w-10 h-full animate-pulse' />
